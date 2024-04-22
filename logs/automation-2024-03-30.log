@@ -1,0 +1,62 @@
+22:52:25.739 [main] ERROR testCases.TC_likeAndViews - ***Test case 7 failed***
+23:39:37.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+23:39:47.711 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+23:39:57.923 [main] INFO  testCases.TC_UserDetailss - ***user icon is clicked***
+23:40:02.936 [main] INFO  testCases.TC_UserDetailss - ***getting user name***
+23:40:07.983 [main] INFO  testCases.TC_UserDetailss - ***getting user mail***
+23:40:13.789 [main] INFO  testCases.TC_NewsValidation - ***Test case 2 is started***
+23:40:18.823 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:40:18.839 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:40:18.858 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:40:18.869 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:40:18.882 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:40:18.890 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:40:18.898 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:40:18.906 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:40:18.915 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:40:18.924 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:40:24.347 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case 3 is started***
+23:40:24.367 [main] INFO  testCases.TC_NewsTooltipValidation - ***getting news list***
+23:40:26.081 [main] INFO  testCases.TC_NewsTooltipValidation - ***getting newsTooltip list***
+23:40:26.090 [main] INFO  testCases.TC_NewsTooltipValidation - *****Finishing ****
+23:40:34.866 [main] INFO  testCases.TC_AssociateDetails - ***Test case 5 is started***
+23:40:58.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+23:41:08.001 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+23:41:13.023 [main] ERROR testCases.TC_UserDetailss - ***test case 1 gets failed***
+23:48:15.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+23:48:33.254 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+23:48:38.564 [main] INFO  testCases.TC_UserDetailss - ***user icon is clicked***
+23:48:43.578 [main] INFO  testCases.TC_UserDetailss - ***getting user name***
+23:48:48.718 [main] INFO  testCases.TC_UserDetailss - ***getting user mail***
+23:48:59.564 [main] INFO  testCases.TC_NewsValidation - ***Test case 2 is started***
+23:49:05.875 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:49:05.920 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:49:05.985 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:49:06.008 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:49:06.042 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:49:06.062 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:49:06.098 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:49:06.127 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:49:06.147 [main] INFO  testCases.TC_NewsValidation - ***getting news list***
+23:49:06.171 [main] INFO  testCases.TC_NewsValidation - ***Validating the news displayed***
+23:49:16.733 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case 3 is started***
+23:49:16.766 [main] INFO  testCases.TC_NewsTooltipValidation - ***getting news list***
+23:49:21.825 [main] INFO  testCases.TC_NewsTooltipValidation - ***getting newsTooltip list***
+23:49:21.915 [main] INFO  testCases.TC_NewsTooltipValidation - ***Validating the newstitle and tooltip***
+23:49:21.975 [main] INFO  testCases.TC_NewsTooltipValidation - ***Validating the newstitle and tooltip***
+23:49:22.036 [main] INFO  testCases.TC_NewsTooltipValidation - ***Validating the newstitle and tooltip***
+23:49:22.110 [main] INFO  testCases.TC_NewsTooltipValidation - ***Validating the newstitle and tooltip***
+23:49:22.219 [main] INFO  testCases.TC_NewsTooltipValidation - ***Validating the newstitle and tooltip***
+23:49:22.257 [main] INFO  testCases.TC_NewsTooltipValidation - *****Finishing ****
+23:49:32.369 [main] INFO  testCases.TC_News_Data - ***Test case 4 is started***
+23:49:38.356 [main] INFO  testCases.TC_News_Data - ***getting news list***
+23:49:41.453 [main] INFO  testCases.TC_News_Data - ***getting news list***
+23:49:44.808 [main] INFO  testCases.TC_News_Data - ***getting news list***
+23:49:47.918 [main] INFO  testCases.TC_News_Data - ***getting news list***
+23:50:03.412 [main] INFO  testCases.TC_AssociateDetails - ***Test case 5 is started***

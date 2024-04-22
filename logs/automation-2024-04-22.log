@@ -1,0 +1,62 @@
+14:01:07.349 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+14:01:17.568 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+14:01:20.306 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+14:01:30.489 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+14:01:52.923 [main] INFO  testCases.TC_Share - ***Test case Share is started***
+14:02:09.103 [main] INFO  testCases.TC_Share - ***Validating the share options***
+14:02:22.280 [main] INFO  testCases.TC_Share - ***Validating the share options***
+14:02:35.121 [main] INFO  testCases.TC_Share - ***Validating the share options***
+14:02:53.914 [main] INFO  testCases.TC_Share - ***Validating the share options***
+14:03:02.549 [main] INFO  testCases.TC_HyperLinks - ***Test case HyperLinks is started***
+14:03:15.465 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+14:03:33.407 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+14:03:33.420 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:33.426 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:33.430 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:41.248 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+14:03:41.268 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:41.274 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:52.021 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+14:03:52.042 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:52.047 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:52.052 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:52.056 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:03:52.060 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***
+14:04:09.610 [main] INFO  testCases.TC_likeAndViews - ***Test case likeAndViews is started***
+14:04:20.695 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+14:04:28.723 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+14:04:33.771 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+14:04:41.462 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+14:04:49.485 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+14:04:54.520 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+14:05:02.355 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+14:05:10.385 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+14:05:15.420 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+14:05:23.895 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+14:05:31.925 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+14:05:36.971 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+21:37:28.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:37:39.218 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:37:44.233 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:37:59.317 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+21:38:10.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:38:10.701 [main] INFO  testCases.TC_NewsValidation - ***Test case NewsValidation is started***
+21:38:15.742 [main] INFO  testCases.TC_NewsValidation - Validating news are displayed or not...
+21:38:15.789 [main] INFO  testCases.TC_NewsValidation - All news items are displayed on the news display page
+21:38:21.865 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:38:26.879 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:38:27.396 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case NewsTooltipValidation is started***
+21:38:31.941 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+21:38:32.429 [main] INFO  testCases.TC_NewsTooltipValidation - Validating news header and tooltip
+21:39:27.508 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:40:06.537 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:40:11.545 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:40:26.642 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+21:40:46.805 [main] INFO  testCases.TC_NewsValidation - ***Test case NewsValidation is started***
+21:40:51.821 [main] INFO  testCases.TC_NewsValidation - Validating news are displayed or not...

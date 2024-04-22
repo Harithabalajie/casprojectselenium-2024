@@ -1,0 +1,57 @@
+21:40:51.863 [main] INFO  testCases.TC_NewsValidation - All news items are displayed on the news display page
+21:41:04.000 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case NewsTooltipValidation is started***
+21:41:09.094 [main] INFO  testCases.TC_NewsTooltipValidation - Validating news header and tooltip
+21:41:20.491 [main] INFO  testCases.TC_News_Data - ***Test case NewsData is started***
+21:41:25.537 [main] ERROR testCases.TC_News_Data - ***Test case NewsData gets failed***
+21:42:01.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:42:17.778 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:42:22.792 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:42:37.928 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+21:43:22.440 [main] INFO  testCases.TC_NewsValidation - ***Test case NewsValidation is started***
+21:43:27.452 [main] INFO  testCases.TC_NewsValidation - Validating news are displayed or not...
+21:43:27.488 [main] INFO  testCases.TC_NewsValidation - All news items are displayed on the news display page
+21:43:50.320 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case NewsTooltipValidation is started***
+21:43:55.354 [main] INFO  testCases.TC_NewsTooltipValidation - Validating news header and tooltip
+21:43:59.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:44:36.955 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:44:41.963 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:44:47.044 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+21:44:49.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+21:45:17.039 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+21:45:22.042 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+21:45:27.118 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+22:05:46.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+22:05:57.813 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+22:06:02.819 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+22:06:15.475 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+22:08:55.393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+22:09:05.730 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+22:09:10.735 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+22:09:21.905 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+22:10:21.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+22:10:31.539 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+22:10:36.556 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+22:10:41.616 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+22:16:24.435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+22:16:44.268 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+22:16:49.270 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+22:17:04.362 [main] ERROR testCases.TC_UserDetailss - ***test case 1 got failed***
+22:17:18.915 [main] INFO  testCases.TC_NewsValidation - ***Test case NewsValidation is started***
+22:17:23.969 [main] INFO  testCases.TC_NewsValidation - Validating news are displayed or not...
+22:17:24.014 [main] INFO  testCases.TC_NewsValidation - All news items are displayed on the news display page
+22:17:35.472 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case NewsTooltipValidation is started***
+22:17:40.490 [main] INFO  testCases.TC_NewsTooltipValidation - Validating news header and tooltip

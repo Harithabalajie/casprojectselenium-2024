@@ -1,0 +1,64 @@
+20:21:13.223 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+20:21:21.840 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+20:21:29.912 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+20:21:35.022 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+20:21:43.167 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+20:21:51.219 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+20:21:56.307 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+20:22:04.394 [main] INFO  testCases.TC_likeAndViews - ***Scroll***
+20:22:12.475 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of likes***
+20:22:17.575 [main] INFO  testCases.TC_likeAndViews - ***Printing Number of views***
+20:23:22.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+20:23:32.188 [main] INFO  testCases.TC_Share - ***Test case Share is started***
+20:36:30.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+20:36:46.542 [main] INFO  testCases.TC_Share - ***Test case Share is started***
+20:37:02.986 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:38:02.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+20:38:17.510 [main] INFO  testCases.TC_Share - ***Test case Share is started***
+20:38:34.003 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:38:47.192 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:39:00.316 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:39:14.586 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:42:52.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2318420\eclipse-workspace\CasprojectFramework\test01.xml
+
+20:43:11.780 [main] INFO  testCases.TC_UserDetailss - *****Starting TC_UserDetailsTest*****
+20:43:16.791 [main] INFO  testCases.TC_UserDetailss - ***Test case 1 is started***
+20:43:22.059 [main] INFO  testCases.TC_UserDetailss - ***user icon is clicked***
+20:43:27.069 [main] INFO  testCases.TC_UserDetailss - ***getting user name***
+20:43:32.205 [main] INFO  testCases.TC_UserDetailss - ***getting user mail***
+20:44:21.029 [main] INFO  testCases.TC_NewsValidation - ***Test case NewsValidation is started***
+20:44:26.070 [main] INFO  testCases.TC_NewsValidation - Validating news are displayed or not...
+20:44:26.312 [main] INFO  testCases.TC_NewsValidation - All news items are displayed on the news display page
+20:44:42.214 [main] INFO  testCases.TC_NewsTooltipValidation - ***Test case NewsTooltipValidation is started***
+20:44:47.873 [main] INFO  testCases.TC_NewsTooltipValidation - Validating news header and tooltip
+20:45:16.426 [main] INFO  testCases.TC_News_Data - ***Test case NewsData is started***
+20:45:21.473 [main] INFO  testCases.TC_News_Data - ***getting news list***
+20:45:26.219 [main] INFO  testCases.TC_News_Data - ***getting news list***
+20:45:27.376 [main] ERROR testCases.TC_News_Data - ***Test case NewsData gets failed***
+20:45:27.399 [main] INFO  testCases.TC_News_Data - ***getting news list***
+20:45:35.653 [main] INFO  testCases.TC_News_Data - ***getting news list***
+20:45:50.176 [main] INFO  testCases.TC_AssociateDetails - ***Test case AssociateDetails is started***
+20:45:58.212 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+20:46:08.592 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+20:46:10.443 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+20:46:20.828 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+20:46:22.967 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+20:46:33.287 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+20:46:35.262 [main] INFO  testCases.TC_AssociateDetails - ***Hovering to associate details***
+20:46:45.593 [main] INFO  testCases.TC_AssociateDetails - ***Validating the associate details***
+20:46:57.865 [main] INFO  testCases.TC_Share - ***Test case Share is started***
+20:47:14.363 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:47:27.928 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:47:42.139 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:47:56.668 [main] INFO  testCases.TC_Share - ***Validating the share options***
+20:48:07.715 [main] INFO  testCases.TC_HyperLinks - ***Test case HyperLinks is started***
+20:48:24.281 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+20:48:42.406 [main] INFO  testCases.TC_HyperLinks - ***getting hyperlinks***
+20:48:42.451 [main] INFO  testCases.TC_HyperLinks - ***Validating the share options***

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T13:57:56 IST" name="Suite" finished-at="2024-04-02T14:05:40 IST" duration-ms="464049">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T13:57:56 IST" name="Test" finished-at="2024-04-02T14:05:40 IST" duration-ms="464049">
+      <class name="testCases.TC_NewsValidation">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_NewsValidation@62679465]" started-at="2024-04-02T13:58:37 IST" name="setUp" finished-at="2024-04-02T13:59:06 IST" duration-ms="28805" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newsValid()[pri:0, instance:testCases.TC_NewsValidation@62679465]" started-at="2024-04-02T13:59:06 IST" name="newsValid" finished-at="2024-04-02T13:59:11 IST" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsValid -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_NewsValidation@62679465]" started-at="2024-04-02T13:59:12 IST" name="tearDown" finished-at="2024-04-02T13:59:13 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_NewsValidation -->
+      <class name="testCases.TC_UserDetailss">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_UserDetailss@1ca25c47]" started-at="2024-04-02T13:57:57 IST" name="setUp" finished-at="2024-04-02T13:58:15 IST" duration-ms="18268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="userDetails()[pri:0, instance:testCases.TC_UserDetailss@1ca25c47]" started-at="2024-04-02T13:58:15 IST" name="userDetails" finished-at="2024-04-02T13:58:36 IST" duration-ms="20649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_UserDetailss@1ca25c47]" started-at="2024-04-02T13:58:36 IST" name="tearDown" finished-at="2024-04-02T13:58:37 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_UserDetailss -->
+      <class name="testCases.TC_NewsTooltipValidation">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_NewsTooltipValidation@6a988392]" started-at="2024-04-02T13:59:13 IST" name="setUp" finished-at="2024-04-02T13:59:22 IST" duration-ms="9745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Tooltip()[pri:0, instance:testCases.TC_NewsTooltipValidation@6a988392]" started-at="2024-04-02T13:59:22 IST" name="Tooltip" finished-at="2024-04-02T13:59:28 IST" duration-ms="5262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tooltip -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_NewsTooltipValidation@6a988392]" started-at="2024-04-02T13:59:28 IST" name="tearDown" finished-at="2024-04-02T13:59:29 IST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_NewsTooltipValidation -->
+      <class name="testCases.TC_HyperLinks">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_HyperLinks@3ebff828]" started-at="2024-04-02T14:02:57 IST" name="setUp" finished-at="2024-04-02T14:03:02 IST" duration-ms="5426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Links()[pri:0, instance:testCases.TC_HyperLinks@3ebff828]" started-at="2024-04-02T14:03:02 IST" name="Links" finished-at="2024-04-02T14:03:55 IST" duration-ms="52457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Links -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_HyperLinks@3ebff828]" started-at="2024-04-02T14:03:55 IST" name="tearDown" finished-at="2024-04-02T14:03:56 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_HyperLinks -->
+      <class name="testCases.TC_Share">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_Share@5f2606b]" started-at="2024-04-02T14:01:41 IST" name="setUp" finished-at="2024-04-02T14:01:52 IST" duration-ms="11065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="shareButton()[pri:0, instance:testCases.TC_Share@5f2606b]" started-at="2024-04-02T14:01:52 IST" name="shareButton" finished-at="2024-04-02T14:02:55 IST" duration-ms="62835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shareButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_Share@5f2606b]" started-at="2024-04-02T14:02:56 IST" name="tearDown" finished-at="2024-04-02T14:02:57 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_Share -->
+      <class name="testCases.TC_AssociateDetails">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_AssociateDetails@5b6813df]" started-at="2024-04-02T14:00:15 IST" name="setUp" finished-at="2024-04-02T14:00:46 IST" duration-ms="31402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Details()[pri:0, instance:testCases.TC_AssociateDetails@5b6813df]" started-at="2024-04-02T14:00:46 IST" name="Details" finished-at="2024-04-02T14:01:40 IST" duration-ms="53837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_AssociateDetails@5b6813df]" started-at="2024-04-02T14:01:40 IST" name="tearDown" finished-at="2024-04-02T14:01:41 IST" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_AssociateDetails -->
+      <class name="testCases.TC_News_Data">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_News_Data@1d71006f]" started-at="2024-04-02T13:59:29 IST" name="setUp" finished-at="2024-04-02T13:59:38 IST" duration-ms="8591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="newsValid()[pri:0, instance:testCases.TC_News_Data@1d71006f]" started-at="2024-04-02T13:59:38 IST" name="newsValid" finished-at="2024-04-02T14:00:13 IST" duration-ms="35877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsValid -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_News_Data@1d71006f]" started-at="2024-04-02T14:00:14 IST" name="tearDown" finished-at="2024-04-02T14:00:15 IST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_News_Data -->
+      <class name="testCases.TC_likeAndViews">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCases.TC_likeAndViews@2552f2cb]" started-at="2024-04-02T14:03:56 IST" name="setUp" finished-at="2024-04-02T14:04:09 IST" duration-ms="13289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="likesandviews()[pri:0, instance:testCases.TC_likeAndViews@2552f2cb]" started-at="2024-04-02T14:04:09 IST" name="likesandviews" finished-at="2024-04-02T14:05:39 IST" duration-ms="89741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- likesandviews -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_likeAndViews@2552f2cb]" started-at="2024-04-02T14:05:39 IST" name="tearDown" finished-at="2024-04-02T14:05:40 IST" duration-ms="1106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_likeAndViews -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
